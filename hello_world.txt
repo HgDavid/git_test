@@ -1,0 +1,3 @@
+import fake programming language
+
+shout("Hello World!)
